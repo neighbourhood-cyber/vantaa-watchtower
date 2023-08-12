@@ -1,31 +1,48 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: keywordnew
+repo: vantaa-watchtower
+user-agent: keywordnew
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Helsinki Region Environmental Services HSY
+    url: https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/water.png
+  - name: Helen Oy
+    url: https://www.helen.fi/en
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/power-1.png
+  - name: DNA Oyj
+    url: https://www.dna.fi/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/communication.png
+  - name: Helsingin ja Uudenmaan sairaanhoitopiiri
+    url: https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/hospital.png
+  - name: Western Uusimaa Police Department
+    url: https://poliisi.fi/tee-rikosilmoitus
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/emergency.png
+  - name: Helsinki Regional Transport Authority
+    url: https://www.hsl.fi/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/transportation-1.png
+  - name: OP Financial Group
+    url: https://www.op.fi/home-page
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/payment.png
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /vantaa-watchtower
+  name: ' '
+  logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
+  favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
+  introTitle: 'Vantaa 🇫🇮 watchtower'
+  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://keywordnew.github.io/vantaa-watchtower/) to "Watch" and get notified'
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: 'Neighbourhoods ↗'
+      href: https://github.com/$OWNER?tab=repositories&q=watchtower
+      
+i18n:
+  footer: This Watchtower is part of [Project Watchtower](https://nilspace.xyz/project-watchtower/).
