@@ -62,9 +62,9 @@
     "url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 2716,
     "timeMonth": 2726,
     "timeYear": 2665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-18": 0
+    }
   },
   {
     "name": "Western Uusimaa Police Department",
@@ -99,11 +101,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "65.26%",
+    "uptime": "65.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.09%",
-    "uptimeYear": "65.26%",
+    "uptimeMonth": "67.77%",
+    "uptimeYear": "65.74%",
     "time": 1281,
     "timeDay": 1712,
     "timeWeek": 973,
