@@ -99,19 +99,19 @@
     "url": "https://poliisi.fi/tee-rikosilmoitus",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "western-uusimaa-police-department",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1228,
-    "timeDay": 1130,
-    "timeWeek": 1234,
-    "timeMonth": 1441,
+    "timeDay": 1171,
+    "timeWeek": 1242,
+    "timeMonth": 1438,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 7
     }
   },
   {
