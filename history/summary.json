@@ -109,11 +109,11 @@
     "url": "https://poliisi.fi/tee-rikosilmoitus",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "western-uusimaa-police-department",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1225,
     "timeDay": 893,
@@ -121,7 +121,7 @@
     "timeMonth": 1256,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2024-07-31": 7
+      "2024-07-31": 0
     }
   },
   {
@@ -130,18 +130,18 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "81.33%",
+    "uptime": "81.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.19%",
-    "uptimeMonth": "79.02%",
-    "uptimeYear": "81.33%",
+    "uptimeWeek": "7.77%",
+    "uptimeMonth": "78.69%",
+    "uptimeYear": "81.31%",
     "time": 1500,
     "timeDay": 39,
     "timeWeek": 1956,
     "timeMonth": 2244,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2024-07-31": 896,
+      "2024-07-31": 1039,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
