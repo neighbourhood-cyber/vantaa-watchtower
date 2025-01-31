@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 860,
-    "timeDay": 836,
-    "timeWeek": 904,
-    "timeMonth": 844,
-    "timeYear": 919,
+    "timeDay": 1027,
+    "timeWeek": 914,
+    "timeMonth": 852,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2024-07-12": 30,
       "2024-02-19": 15
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.59%",
     "time": 624,
-    "timeDay": 563,
-    "timeWeek": 518,
-    "timeMonth": 551,
-    "timeYear": 626,
+    "timeDay": 739,
+    "timeWeek": 588,
+    "timeMonth": 564,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2025-01-30": 16,
       "2025-01-16": 47,
@@ -52,8 +52,7 @@
       "2024-02-22": 20,
       "2024-02-15": 34,
       "2024-02-07": 15,
-      "2024-02-02": 564,
-      "2024-02-01": 840
+      "2024-02-02": 564
     }
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.84%",
     "time": 1446,
-    "timeDay": 878,
-    "timeWeek": 936,
-    "timeMonth": 1030,
-    "timeYear": 1433,
+    "timeDay": 1510,
+    "timeWeek": 994,
+    "timeMonth": 1042,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-01-29": 66,
       "2025-01-17": 28,
@@ -98,18 +97,17 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
     "status": "up",
-    "uptime": "96.17%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptime": "96.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "94.37%",
-    "time": 2221,
-    "timeDay": 512,
-    "timeWeek": 627,
-    "timeMonth": 660,
-    "timeYear": 2087,
+    "time": 2219,
+    "timeDay": 672,
+    "timeWeek": 659,
+    "timeMonth": 669,
+    "timeYear": 2081,
     "dailyMinutesDown": {
-      "2025-01-30": 9,
       "2025-01-28": 32,
       "2024-12-17": 641,
       "2024-12-16": 1440,
@@ -153,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.12%",
     "time": 1199,
-    "timeDay": 1027,
-    "timeWeek": 1087,
-    "timeMonth": 1128,
-    "timeYear": 1212,
+    "timeDay": 1156,
+    "timeWeek": 1160,
+    "timeMonth": 1140,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-10-21": 558,
       "2024-10-20": 1440,
@@ -193,16 +191,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "72.02%",
+    "uptime": "72.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.62%",
-    "uptimeMonth": "52.06%",
+    "uptimeMonth": "52.59%",
     "uptimeYear": "70.59%",
     "time": 1266,
-    "timeDay": 861,
-    "timeWeek": 774,
-    "timeMonth": 657,
-    "timeYear": 1158,
+    "timeDay": 1420,
+    "timeWeek": 844,
+    "timeMonth": 690,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-01-25": 837,
       "2025-01-24": 916,
@@ -344,8 +342,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 751
+      "2024-02-02": 1440
     }
   },
   {
@@ -359,11 +356,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.60%",
-    "time": 1504,
-    "timeDay": 2068,
-    "timeWeek": 1515,
-    "timeMonth": 1597,
-    "timeYear": 1542,
+    "time": 1506,
+    "timeDay": 2452,
+    "timeWeek": 1675,
+    "timeMonth": 1632,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-01-03": 93,
       "2025-01-01": 26,
@@ -380,8 +377,7 @@
       "2024-07-20": 32,
       "2024-06-27": 16,
       "2024-04-21": 27,
-      "2024-03-19": 32,
-      "2024-02-01": 25
+      "2024-03-19": 32
     }
   }
 ]
