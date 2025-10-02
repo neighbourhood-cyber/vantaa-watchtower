@@ -6,17 +6,17 @@
     "slug": "helsinki-region-environmental-services-hsy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1115,
+    "time": 1114,
     "timeDay": 1334,
     "timeWeek": 1420,
     "timeMonth": 1529,
-    "timeYear": 1144,
+    "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 9
     }
   },
   {
@@ -271,7 +271,7 @@
     "timeMonth": 482,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-10-02": 1042,
+      "2025-10-02": 1051,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
