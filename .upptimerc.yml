@@ -6,38 +6,38 @@ sites:
   - name: Helsinki Region Environmental Services HSY
     url: https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/water.png
+    icon: https://manil.net/content/images/2023/05/water.png
   - name: Helen Oy
     url: https://www.helen.fi/en
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/power-1.png
+    icon: https://manil.net/content/images/2023/05/power-1.png
   - name: DNA Oyj
     url: https://www.dna.fi/
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/communication.png
+    icon: https://manil.net/content/images/2023/05/communication.png
   - name: Helsingin ja Uudenmaan sairaanhoitopiiri
     url: https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/hospital.png
+    icon: https://manil.net/content/images/2023/05/hospital.png
   - name: Western Uusimaa Police Department
     url: https://poliisi.fi/tee-rikosilmoitus
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/emergency.png
+    icon: https://manil.net/content/images/2023/05/emergency.png
   - name: Helsinki Regional Transport Authority
     url: https://www.hsl.fi/
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/transportation-1.png
+    icon: https://manil.net/content/images/2023/05/transportation-1.png
   - name: OP Financial Group
     url: https://www.op.fi/home-page
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/payment.png
+    icon: https://manil.net/content/images/2023/05/payment.png
 
 
 status-website:
   baseUrl: /vantaa-watchtower
   name: ' '
-  logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
-  favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
+  logoUrl: https://manil.net/content/images/2023/05/favicon.png
+  favicon: https://manil.net/content/images/2023/05/favicon.png
   introTitle: 'Vantaa 🇫🇮 watchtower'
   introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://keywordnew.github.io/vantaa-watchtower/) to "Watch" and get notified'
   navbar:
@@ -45,4 +45,4 @@ status-website:
       href: https://github.com/$OWNER?tab=repositories&q=watchtower
       
 i18n:
-  footer: This Watchtower is part of [Project Watchtower](https://nilspace.xyz/project-watchtower/).
+  footer: This Watchtower is part of [Project Watchtower](https://manil.net/project-watchtower/).
