@@ -1,7 +1,7 @@
 url: https://www.dna.fi/
-status: up
-code: 200
-responseTime: 1564
-lastUpdated: 2025-12-30T04:28:24.373Z
+status: down
+code: 403
+responseTime: 835
+lastUpdated: 2025-12-30T05:34:07.920Z
 startTime: 2023-08-12T08:27:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
