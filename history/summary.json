@@ -52,17 +52,17 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "39.87%",
-    "uptimeWeek": "43.24%",
+    "uptimeDay": "41.80%",
+    "uptimeWeek": "43.23%",
     "uptimeMonth": "86.94%",
-    "uptimeYear": "98.84%",
-    "time": 1204,
-    "timeDay": 1043,
-    "timeWeek": 1043,
-    "timeMonth": 1043,
-    "timeYear": 1116,
+    "uptimeYear": "98.85%",
+    "time": 1203,
+    "timeDay": 1034,
+    "timeWeek": 1042,
+    "timeMonth": 1042,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2026-01-04": 265,
       "2026-01-03": 795,
@@ -80,7 +80,7 @@
       "2025-08-29": 19,
       "2025-08-28": 43,
       "2025-08-26": 65,
-      "2025-08-25": 53
+      "2025-08-25": 22
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 452,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2026-01-04": 351,
+      "2026-01-04": 379,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
