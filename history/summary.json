@@ -54,7 +54,7 @@
     "slug": "dna-oyj",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "31.23%",
+    "uptimeDay": "37.04%",
     "uptimeWeek": "36.29%",
     "uptimeMonth": "82.70%",
     "uptimeYear": "98.56%",
@@ -180,7 +180,7 @@
     "icon": "https://manil.net/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "53.48%",
+    "uptime": "53.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -191,7 +191,8 @@
     "timeMonth": 506,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2026-01-06": 1439,
+      "2026-01-07": 83,
+      "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -498,8 +499,7 @@
       "2025-01-13": 515,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 860,
-      "2025-01-07": 505
+      "2025-01-10": 860
     }
   },
   {
