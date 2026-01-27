@@ -53,16 +53,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "35.58%",
+    "uptimeDay": "36.84%",
     "uptimeWeek": "39.16%",
-    "uptimeMonth": "80.15%",
+    "uptimeMonth": "80.18%",
     "uptimeYear": "98.35%",
-    "time": 1101,
-    "timeDay": 1159,
-    "timeWeek": 1020,
-    "timeMonth": 1034,
+    "time": 1100,
+    "timeDay": 1135,
+    "timeWeek": 1018,
+    "timeMonth": 1033,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2026-01-27": 564,
@@ -75,7 +75,7 @@
       "2026-01-20": 677,
       "2026-01-19": 963,
       "2026-01-18": 850,
-      "2026-01-17": 249
+      "2026-01-17": 233
     }
   },
   {
@@ -201,7 +201,7 @@
     "timeMonth": 503,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2026-01-27": 941,
+      "2026-01-27": 959,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -528,7 +528,7 @@
     "icon": "https://manil.net/content/images/2023/05/payment.png",
     "slug": "op-financial-group",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
