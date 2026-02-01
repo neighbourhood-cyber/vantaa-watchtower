@@ -14,7 +14,7 @@
     "timeDay": 991,
     "timeWeek": 1008,
     "timeMonth": 1368,
-    "timeYear": 1261,
+    "timeYear": 1263,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 988,
     "timeWeek": 678,
     "timeMonth": 676,
-    "timeYear": 661,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2026-01-07": 41,
@@ -52,15 +52,15 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "32.12%",
-    "uptimeWeek": "36.85%",
-    "uptimeMonth": "78.48%",
-    "uptimeYear": "98.21%",
-    "time": 1095,
-    "timeDay": 982,
-    "timeWeek": 1003,
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "33.79%",
+    "uptimeWeek": "37.01%",
+    "uptimeMonth": "78.76%",
+    "uptimeYear": "98.23%",
+    "time": 1094,
+    "timeDay": 956,
+    "timeWeek": 999,
     "timeMonth": 1025,
     "timeYear": 1073,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
       "2026-01-25": 818,
       "2026-01-24": 679,
       "2026-01-23": 825,
-      "2026-01-22": 804
+      "2026-01-22": 683
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 638,
     "timeWeek": 945,
     "timeMonth": 977,
-    "timeYear": 1165,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-04-09": 651,
       "2025-04-08": 520,
@@ -199,9 +199,9 @@
     "timeDay": 454,
     "timeWeek": 492,
     "timeMonth": 513,
-    "timeYear": 642,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-02-01": 1369,
+      "2026-02-01": 1393,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -540,7 +540,7 @@
     "timeDay": 1483,
     "timeWeek": 1599,
     "timeMonth": 1552,
-    "timeYear": 2163,
+    "timeYear": 2166,
     "dailyMinutesDown": {
       "2025-09-25": 27,
       "2025-09-24": 15,
