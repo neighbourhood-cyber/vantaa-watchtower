@@ -23,7 +23,7 @@
     "icon": "https://manil.net/content/images/2023/05/power-1.png",
     "slug": "helen-oy",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -52,15 +52,15 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "50.19%",
-    "uptimeWeek": "30.91%",
-    "uptimeMonth": "72.35%",
-    "uptimeYear": "97.70%",
+    "uptimeDay": "50.18%",
+    "uptimeWeek": "31.15%",
+    "uptimeMonth": "72.48%",
+    "uptimeYear": "97.71%",
     "time": 1117,
-    "timeDay": 1072,
-    "timeWeek": 990,
+    "timeDay": 1080,
+    "timeWeek": 991,
     "timeMonth": 1021,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
       "2026-01-28": 926,
       "2026-01-27": 835,
       "2026-01-26": 1105,
-      "2026-01-25": 332
+      "2026-01-25": 272
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 498,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2026-02-07": 555,
+      "2026-02-07": 588,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
