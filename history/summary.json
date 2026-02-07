@@ -54,13 +54,13 @@
     "slug": "dna-oyj",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "37.01%",
-    "uptimeWeek": "30.57%",
+    "uptimeDay": "44.70%",
+    "uptimeWeek": "30.60%",
     "uptimeMonth": "72.19%",
     "uptimeYear": "97.68%",
     "time": 1069,
-    "timeDay": 1028,
-    "timeWeek": 985,
+    "timeDay": 1030,
+    "timeWeek": 980,
     "timeMonth": 1020,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -196,14 +196,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.04%",
+    "uptimeYear": "18.02%",
     "time": 674,
     "timeDay": 365,
     "timeWeek": 468,
     "timeMonth": 498,
-    "timeYear": 630,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2026-02-06": 1409,
+      "2026-02-07": 106,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -525,8 +526,7 @@
       "2025-02-14": 943,
       "2025-02-10": 548,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 942
+      "2025-02-08": 1440
     }
   },
   {
