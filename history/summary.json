@@ -52,18 +52,19 @@
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "36.36%",
-    "uptimeWeek": "37.33%",
-    "uptimeMonth": "69.34%",
-    "uptimeYear": "97.45%",
+    "uptime": "98.98%",
+    "uptimeDay": "32.49%",
+    "uptimeWeek": "36.12%",
+    "uptimeMonth": "69.07%",
+    "uptimeYear": "97.42%",
     "time": 1073,
-    "timeDay": 1034,
+    "timeDay": 1039,
     "timeWeek": 988,
     "timeMonth": 1007,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2026-02-18": 909,
+      "2026-02-19": 114,
+      "2026-02-18": 917,
       "2026-02-17": 1141,
       "2026-02-16": 1091,
       "2026-02-15": 890,
@@ -90,7 +91,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "98.71%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 864,
     "timeDay": 1662,
     "timeWeek": 1219,
@@ -159,8 +160,7 @@
       "2025-03-03": 42,
       "2025-03-01": 16,
       "2025-02-27": 20,
-      "2025-02-24": 17,
-      "2025-02-19": 83
+      "2025-02-24": 17
     }
   },
   {
@@ -173,7 +173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.70%",
     "time": 1173,
     "timeDay": 1343,
     "timeWeek": 1025,
@@ -181,8 +181,7 @@
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-04-09": 651,
-      "2025-04-08": 520,
-      "2025-02-19": 531
+      "2025-04-08": 520
     }
   },
   {
@@ -195,14 +194,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.40%",
+    "uptimeYear": "16.38%",
     "time": 642,
     "timeDay": 660,
     "timeWeek": 455,
     "timeMonth": 482,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2026-02-18": 1432,
+      "2026-02-19": 114,
+      "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
