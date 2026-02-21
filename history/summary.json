@@ -51,16 +51,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "35.13%",
-    "uptimeWeek": "32.86%",
-    "uptimeMonth": "68.62%",
-    "uptimeYear": "97.39%",
+    "uptimeDay": "37.14%",
+    "uptimeWeek": "32.88%",
+    "uptimeMonth": "68.75%",
+    "uptimeYear": "97.40%",
     "time": 1063,
-    "timeDay": 1038,
-    "timeWeek": 1025,
-    "timeMonth": 1005,
+    "timeDay": 1041,
+    "timeWeek": 1029,
+    "timeMonth": 1006,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2026-02-21": 418,
@@ -78,7 +78,7 @@
       "2026-02-09": 911,
       "2026-02-08": 734,
       "2026-02-07": 865,
-      "2026-02-06": 509
+      "2026-02-06": 455
     }
   },
   {
@@ -190,7 +190,7 @@
     "icon": "https://manil.net/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "50.85%",
+    "uptime": "50.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -201,7 +201,7 @@
     "timeMonth": 475,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2026-02-21": 659,
+      "2026-02-21": 691,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
