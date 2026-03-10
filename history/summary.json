@@ -13,7 +13,7 @@
     "time": 1179,
     "timeDay": 1013,
     "timeWeek": 1504,
-    "timeMonth": 1172,
+    "timeMonth": 1176,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2026-03-04": 70
@@ -33,7 +33,7 @@
     "time": 640,
     "timeDay": 513,
     "timeWeek": 717,
-    "timeMonth": 737,
+    "timeMonth": 739,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2026-01-26": 55,
@@ -53,16 +53,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "30.16%",
-    "uptimeWeek": "36.60%",
-    "uptimeMonth": "69.92%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "30.79%",
+    "uptimeWeek": "36.80%",
+    "uptimeMonth": "70.06%",
+    "uptimeYear": "97.50%",
     "time": 1061,
-    "timeDay": 851,
-    "timeWeek": 948,
-    "timeMonth": 1041,
+    "timeDay": 825,
+    "timeWeek": 945,
+    "timeMonth": 1040,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2026-03-10": 997,
@@ -79,7 +79,7 @@
       "2026-02-27": 717,
       "2026-02-26": 1119,
       "2026-02-25": 894,
-      "2026-02-24": 333
+      "2026-02-24": 273
     }
   },
   {
@@ -96,7 +96,7 @@
     "time": 848,
     "timeDay": 1487,
     "timeWeek": 1216,
-    "timeMonth": 1258,
+    "timeMonth": 1250,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-03-09": 46,
@@ -177,7 +177,7 @@
     "time": 1166,
     "timeDay": 1155,
     "timeWeek": 1106,
-    "timeMonth": 1045,
+    "timeMonth": 1044,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-04-09": 651,
@@ -194,14 +194,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "13.42%",
+    "uptimeYear": "13.41%",
     "time": 623,
     "timeDay": 495,
     "timeWeek": 471,
-    "timeMonth": 460,
+    "timeMonth": 449,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2026-03-10": 1417,
+      "2026-03-10": 1437,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -552,7 +552,7 @@
     "time": 2053,
     "timeDay": 1843,
     "timeWeek": 1651,
-    "timeMonth": 1647,
+    "timeMonth": 1640,
     "timeYear": 2133,
     "dailyMinutesDown": {
       "2026-02-27": 56,
