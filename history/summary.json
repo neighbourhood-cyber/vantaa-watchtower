@@ -13,7 +13,7 @@
     "time": 1170,
     "timeDay": 506,
     "timeWeek": 659,
-    "timeMonth": 966,
+    "timeMonth": 975,
     "timeYear": 1249,
     "dailyMinutesDown": {
       "2026-03-04": 70
@@ -33,7 +33,7 @@
     "time": 635,
     "timeDay": 356,
     "timeWeek": 556,
-    "timeMonth": 740,
+    "timeMonth": 737,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2026-01-26": 55,
@@ -54,14 +54,14 @@
     "slug": "dna-oyj",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "27.42%",
-    "uptimeWeek": "34.33%",
+    "uptimeDay": "36.06%",
+    "uptimeWeek": "34.56%",
     "uptimeMonth": "70.89%",
     "uptimeYear": "97.57%",
     "time": 1050,
-    "timeDay": 942,
-    "timeWeek": 944,
-    "timeMonth": 971,
+    "timeDay": 959,
+    "timeWeek": 938,
+    "timeMonth": 975,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2026-03-29": 1045,
@@ -95,7 +95,7 @@
     "time": 870,
     "timeDay": 1236,
     "timeWeek": 1337,
-    "timeMonth": 1332,
+    "timeMonth": 1342,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2026-03-21": 36,
@@ -157,8 +157,7 @@
       "2025-04-12": 19,
       "2025-04-08": 37,
       "2025-04-05": 19,
-      "2025-04-02": 35,
-      "2025-03-30": 16
+      "2025-04-02": 35
     }
   },
   {
@@ -175,7 +174,7 @@
     "time": 1149,
     "timeDay": 856,
     "timeWeek": 930,
-    "timeMonth": 1032,
+    "timeMonth": 1040,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-04-09": 651,
@@ -191,15 +190,16 @@
     "uptime": "48.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "10.30%",
     "time": 628,
     "timeDay": 361,
     "timeWeek": 425,
-    "timeMonth": 454,
+    "timeMonth": 458,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2026-03-29": 1413,
+      "2026-03-30": 127,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -539,8 +539,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 960,
-      "2025-03-31": 455,
-      "2025-03-30": 1440
+      "2025-03-31": 455
     }
   },
   {
@@ -557,7 +556,7 @@
     "time": 2041,
     "timeDay": 1454,
     "timeWeek": 1779,
-    "timeMonth": 1674,
+    "timeMonth": 1684,
     "timeYear": 2123,
     "dailyMinutesDown": {
       "2026-03-26": 438,
