@@ -14,7 +14,7 @@
     "timeDay": 641,
     "timeWeek": 670,
     "timeMonth": 935,
-    "timeYear": 1241,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2026-03-04": 70
     }
@@ -34,7 +34,7 @@
     "timeDay": 384,
     "timeWeek": 636,
     "timeMonth": 722,
-    "timeYear": 689,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2026-01-07": 41,
@@ -51,16 +51,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "31.01%",
-    "uptimeWeek": "39.54%",
-    "uptimeMonth": "67.19%",
-    "uptimeYear": "97.27%",
+    "uptimeDay": "33.03%",
+    "uptimeWeek": "40.33%",
+    "uptimeMonth": "67.46%",
+    "uptimeYear": "97.29%",
     "time": 1047,
-    "timeDay": 1039,
-    "timeWeek": 936,
-    "timeMonth": 966,
+    "timeDay": 1024,
+    "timeWeek": 932,
+    "timeMonth": 964,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2026-04-02": 924,
@@ -78,8 +78,7 @@
       "2026-03-21": 1111,
       "2026-03-20": 952,
       "2026-03-19": 876,
-      "2026-03-18": 788,
-      "2026-03-17": 59
+      "2026-03-18": 730
     }
   },
   {
@@ -97,7 +96,7 @@
     "timeDay": 2067,
     "timeWeek": 1452,
     "timeMonth": 1367,
-    "timeYear": 931,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2026-03-30": 83,
       "2026-03-21": 36,
@@ -192,14 +191,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.59%",
+    "uptimeYear": "9.57%",
     "time": 627,
     "timeDay": 454,
     "timeWeek": 382,
     "timeMonth": 449,
-    "timeYear": 589,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2026-04-02": 1321,
+      "2026-04-02": 1400,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -560,7 +559,7 @@
     "timeDay": 1732,
     "timeWeek": 1536,
     "timeMonth": 1673,
-    "timeYear": 2122,
+    "timeYear": 2124,
     "dailyMinutesDown": {
       "2026-03-31": 63,
       "2026-03-26": 438,
