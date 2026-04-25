@@ -51,16 +51,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "5.63%",
-    "uptimeWeek": "30.90%",
-    "uptimeMonth": "55.63%",
-    "uptimeYear": "96.30%",
-    "time": 1033,
-    "timeDay": 1093,
-    "timeWeek": 1011,
-    "timeMonth": 980,
+    "uptimeDay": "11.91%",
+    "uptimeWeek": "31.37%",
+    "uptimeMonth": "55.68%",
+    "uptimeYear": "96.31%",
+    "time": 1032,
+    "timeDay": 1038,
+    "timeWeek": 1008,
+    "timeMonth": 979,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2026-04-25": 886,
@@ -84,7 +84,7 @@
       "2026-04-07": 1126,
       "2026-04-06": 898,
       "2026-04-05": 887,
-      "2026-04-04": 238
+      "2026-04-04": 216
     }
   },
   {
@@ -202,7 +202,7 @@
     "timeMonth": 448,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2026-04-25": 954,
+      "2026-04-25": 1044,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -559,12 +559,12 @@
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.62%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.80%",
     "time": 2028,
     "timeDay": 1432,
     "timeWeek": 1510,
-    "timeMonth": 1536,
+    "timeMonth": 1452,
     "timeYear": 2155,
     "dailyMinutesDown": {
       "2026-03-31": 63,
