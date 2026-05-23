@@ -14,7 +14,7 @@
     "timeDay": 647,
     "timeWeek": 805,
     "timeMonth": 879,
-    "timeYear": 1168,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2026-03-04": 70
     }
@@ -34,7 +34,7 @@
     "timeDay": 1090,
     "timeWeek": 691,
     "timeMonth": 725,
-    "timeYear": 720,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2026-01-07": 41,
@@ -50,17 +50,17 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "33.23%",
-    "uptimeWeek": "30.07%",
-    "uptimeMonth": "39.23%",
-    "uptimeYear": "94.94%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "37.66%",
+    "uptimeWeek": "30.40%",
+    "uptimeMonth": "39.96%",
+    "uptimeYear": "95.00%",
     "time": 1028,
-    "timeDay": 999,
-    "timeWeek": 928,
-    "timeMonth": 988,
-    "timeYear": 1028,
+    "timeDay": 970,
+    "timeWeek": 925,
+    "timeMonth": 986,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-05-23": 889,
       "2026-05-22": 992,
@@ -90,7 +90,7 @@
       "2026-04-28": 1017,
       "2026-04-27": 838,
       "2026-04-26": 884,
-      "2026-04-25": 341
+      "2026-04-25": 23
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeDay": 1466,
     "timeWeek": 1502,
     "timeMonth": 1669,
-    "timeYear": 1068,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2026-05-07": 70,
       "2026-04-22": 67,
@@ -186,7 +186,7 @@
     "timeDay": 694,
     "timeWeek": 913,
     "timeMonth": 1012,
-    "timeYear": 1084,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://manil.net/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "46.27%",
+    "uptime": "46.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.85%",
+    "uptimeYear": "2.84%",
     "time": 576,
     "timeDay": 294,
     "timeWeek": 364,
     "timeMonth": 420,
-    "timeYear": 494,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-05-23": 1356,
+      "2026-05-23": 1420,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -578,7 +578,7 @@
     "timeDay": 1290,
     "timeWeek": 1381,
     "timeMonth": 1465,
-    "timeYear": 2134,
+    "timeYear": 2136,
     "dailyMinutesDown": {
       "2026-03-31": 63,
       "2026-03-26": 438,
