@@ -14,7 +14,7 @@
     "timeDay": 691,
     "timeWeek": 742,
     "timeMonth": 854,
-    "timeYear": 1151,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2026-03-04": 70
     }
@@ -34,7 +34,7 @@
     "timeDay": 1164,
     "timeWeek": 748,
     "timeMonth": 613,
-    "timeYear": 726,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2026-01-07": 41,
@@ -49,16 +49,16 @@
     "url": "https://www.dna.fi/",
     "icon": "https://manil.net/content/images/2023/05/communication.png",
     "slug": "dna-oyj",
-    "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "24.00%",
-    "uptimeWeek": "41.90%",
-    "uptimeMonth": "35.76%",
-    "uptimeYear": "93.92%",
+    "status": "down",
+    "uptime": "97.87%",
+    "uptimeDay": "28.00%",
+    "uptimeWeek": "42.27%",
+    "uptimeMonth": "35.99%",
+    "uptimeYear": "93.95%",
     "time": 1028,
-    "timeDay": 810,
-    "timeWeek": 1055,
-    "timeMonth": 977,
+    "timeDay": 732,
+    "timeWeek": 1046,
+    "timeMonth": 975,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2026-06-12": 1036,
@@ -96,7 +96,7 @@
       "2026-05-11": 1051,
       "2026-05-10": 995,
       "2026-05-09": 511,
-      "2026-05-08": 217
+      "2026-05-08": 73
     }
   },
   {
@@ -107,14 +107,14 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.13%",
+    "uptimeWeek": "97.51%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.31%",
     "time": 988,
     "timeDay": 1545,
-    "timeWeek": 1360,
+    "timeWeek": 1336,
     "timeMonth": 1455,
-    "timeYear": 1099,
+    "timeYear": 1100,
     "dailyMinutesDown": {
       "2026-06-06": 251,
       "2026-06-05": 63,
@@ -197,7 +197,7 @@
     "timeDay": 1102,
     "timeWeek": 1108,
     "timeMonth": 1032,
-    "timeYear": 1088,
+    "timeYear": 1087,
     "dailyMinutesDown": {}
   },
   {
@@ -217,7 +217,7 @@
     "timeMonth": 436,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2026-06-12": 1335,
+      "2026-06-12": 1435,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
